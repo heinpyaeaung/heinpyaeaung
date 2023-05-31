@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vue, nodejs, expressjs**
 
-- 📫 How to reach me **heinpyaeaung115144@gmail.com**
+- 📫 How to reach me **heinpyaeaung.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
